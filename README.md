@@ -32,7 +32,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>I’m an incoming junior at the University of Notre Dame, pursuing a Bachelor of Science in Computer Science and a Minor in Engineering Corporate Practice. I'm passionate about software engineering, hardware-software integration, and impactful technology projects.</p>
+    <p>I’m an incoming junior at the University of Notre Dame, pursuing a Bachelor of Science in Computer Science and a Minor in Engineering Corporate Practice. I'm passionate about software programming, data analysis, and impactful technology projects.</p>
 </section>
 
 <section id="experience">
@@ -55,7 +55,7 @@
 <section id="resume">
     <h2>Resume</h2>
     <p>You can download my full resume below:</p>
-    <a class="button" href="Arvin Picardo Resume 04042025 (2).pdf" target="_blank">Download Resume (PDF)</a>
+    <a class="button" href="file:///C:/Users/arvin/Downloads/Arvin%20Picardo%20Resume%2004042025%20(2).pdf" target="_blank">Download Resume (PDF)</a>
 </section>
 
 <section id="contact">
