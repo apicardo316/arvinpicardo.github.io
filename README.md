@@ -1,1 +1,72 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arvin Picardo</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background-color: #f9f9f9; color: #333; }
+        header { background-color: #004080; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #e0e0e0; padding: 10px; text-align: center; }
+        nav a { margin: 0 15px; color: #004080; text-decoration: none; font-weight: bold; }
+        section { padding: 20px; max-width: 900px; margin: auto; }
+        footer { background-color: #004080; color: white; text-align: center; padding: 10px; }
+        .button { display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #004080; color: white; text-decoration: none; border-radius: 4px; }
+        .button:hover { background-color: #00264d; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hi, I'm Arvin Picardo!</h1>
+    <p>Computer Science Student at the University of Notre Dame</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#projects">Projects</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I’m an incoming junior at the University of Notre Dame, pursuing a Bachelor of Science in Computer Science and a Minor in Engineering Corporate Practice. I'm passionate about software engineering, hardware-software integration, and impactful technology projects.</p>
+</section>
+
+<section id="experience">
+    <h2>Experience</h2>
+    <ul>
+        <li><strong>Thomas Jefferson National Accelerator Facility</strong> – Transformed outdated TCL apps into Python tools for CEBAF accelerator control.</li>
+        <li><strong>Harvard Center for Brain Science</strong> – Contributed to a published project by reconstructing neuron imagery using serial EM data.</li>
+        <li><strong>The Huddle On Campus (Notre Dame)</strong> – Worked as a student service associate in a fast-paced environment.</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li><strong>Mini Detonation Game:</strong> Created an interactive Arduino-based hardware game with LEDs, timers, and buttons.</li>
+        <li><strong>Ball Valve Engineering Project:</strong> Designed and tested a 3D-printed ball valve as part of a team engineering project.</li>
+    </ul>
+</section>
+
+<section id="resume">
+    <h2>Resume</h2>
+    <p>You can download my full resume below:</p>
+    <a class="button" href="Arvin Picardo Resume 04042025 (2).pdf" target="_blank">Download Resume (PDF)</a>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:arvinpicardo@gmail.com">arvinpicardo@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/arvin-picardo-b46026277" target="_blank">linkedin.com/in/arvin-picardo</a></p>
+</section>
+
+<footer>
+    <p>© 2025 Arvin Picardo | Hosted with GitHub Pages</p>
+</footer>
+
+</body>
+</html>
